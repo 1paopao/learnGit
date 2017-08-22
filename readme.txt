@@ -6,3 +6,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 My stupid boss still prefers SVN123.
 Creatong sdklsdf;
+Creating a new branch is quick AND simple.
